@@ -1,0 +1,15 @@
+/Users/jeancarlhenryflorexil/Projects/InfSecur_lab2/InfSecur_lab2/obj/Debug/net7.0/InfSecur_lab2.csproj.AssemblyReference.cache
+/Users/jeancarlhenryflorexil/Projects/InfSecur_lab2/InfSecur_lab2/obj/Debug/net7.0/InfSecur_lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeancarlhenryflorexil/Projects/InfSecur_lab2/InfSecur_lab2/obj/Debug/net7.0/InfSecur_lab2.AssemblyInfoInputs.cache
+/Users/jeancarlhenryflorexil/Projects/InfSecur_lab2/InfSecur_lab2/obj/Debug/net7.0/InfSecur_lab2.AssemblyInfo.cs
+/Users/jeancarlhenryflorexil/Projects/InfSecur_lab2/InfSecur_lab2/obj/Debug/net7.0/InfSecur_lab2.csproj.CoreCompileInputs.cache
+/Users/jeancarlhenryflorexil/Projects/InfSecur_lab2/InfSecur_lab2/bin/Debug/net7.0/InfSecur_lab2
+/Users/jeancarlhenryflorexil/Projects/InfSecur_lab2/InfSecur_lab2/bin/Debug/net7.0/InfSecur_lab2.deps.json
+/Users/jeancarlhenryflorexil/Projects/InfSecur_lab2/InfSecur_lab2/bin/Debug/net7.0/InfSecur_lab2.runtimeconfig.json
+/Users/jeancarlhenryflorexil/Projects/InfSecur_lab2/InfSecur_lab2/bin/Debug/net7.0/InfSecur_lab2.dll
+/Users/jeancarlhenryflorexil/Projects/InfSecur_lab2/InfSecur_lab2/bin/Debug/net7.0/InfSecur_lab2.pdb
+/Users/jeancarlhenryflorexil/Projects/InfSecur_lab2/InfSecur_lab2/obj/Debug/net7.0/InfSecur_lab2.dll
+/Users/jeancarlhenryflorexil/Projects/InfSecur_lab2/InfSecur_lab2/obj/Debug/net7.0/refint/InfSecur_lab2.dll
+/Users/jeancarlhenryflorexil/Projects/InfSecur_lab2/InfSecur_lab2/obj/Debug/net7.0/InfSecur_lab2.pdb
+/Users/jeancarlhenryflorexil/Projects/InfSecur_lab2/InfSecur_lab2/obj/Debug/net7.0/InfSecur_lab2.genruntimeconfig.cache
+/Users/jeancarlhenryflorexil/Projects/InfSecur_lab2/InfSecur_lab2/obj/Debug/net7.0/ref/InfSecur_lab2.dll

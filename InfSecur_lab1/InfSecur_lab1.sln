@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfSecur_lab1", "InfSecur_lab1\InfSecur_lab1.csproj", "{C43B73DD-64A1-46CD-9BD4-309A1F5077A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C43B73DD-64A1-46CD-9BD4-309A1F5077A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43B73DD-64A1-46CD-9BD4-309A1F5077A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43B73DD-64A1-46CD-9BD4-309A1F5077A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43B73DD-64A1-46CD-9BD4-309A1F5077A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90C65CB0-619F-438A-9427-BCF7F056E249}
+	EndGlobalSection
+EndGlobal
